@@ -60,6 +60,61 @@ export default function Skills(){
                         </div>
                     </div>
                     
+                    <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                        <div className="grid grid-cols-2 gap-4 justify-center items-center">
+                            <div className="m-auto">
+                                <Image src='/images/logo-php.png' alt='programming' width={100} height={100}/>
+                            </div>
+                            <div className="flex flex-col justify-center items-center">
+                                <h3>PHP</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                        <div className="grid grid-cols-2 gap-4 justify-center items-center">
+                            <div className="m-auto">
+                                <Image src='/images/bootstrap.png' alt='programming' width={100} height={100}/>
+                            </div>
+                            <div className="flex flex-col justify-center items-center">
+                                <h3>Bootstrap</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                        <div className="grid grid-cols-2 gap-4 justify-center items-center">
+                            <div className="m-auto">
+                                <Image src='/images/tailwindcss.png' alt='programming' width={100} height={100}/>
+                            </div>
+                            <div className="flex flex-col justify-center items-center">
+                                <h3>Tailwind Css</h3>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                        <div className="grid grid-cols-2 gap-4 justify-center items-center">
+                            <div className="m-auto">
+                                <Image src='/images/nextjs.png' alt='programming' width={100} height={100}/>
+                            </div>
+                            <div className="flex flex-col justify-center items-center">
+                                <h3>NextJs</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+                        <div className="grid grid-cols-2 gap-4 justify-center items-center">
+                            <div className="m-auto">
+                                <Image src='/images/nestjs.png' alt='programming' width={100} height={100}/>
+                            </div>
+                            <div className="flex flex-col justify-center items-center">
+                                <h3>NestJs</h3>
+                            </div>
+                        </div>
+                    </div>
+                    
                     </div>
                 </div>
             </div>
